@@ -1,0 +1,16 @@
+C:\Users\Klein\source\repos\InventorySys\InventorySys\bin\x64\Debug\InventorySys.exe.config
+C:\Users\Klein\source\repos\InventorySys\InventorySys\bin\x64\Debug\InventorySys.exe
+C:\Users\Klein\source\repos\InventorySys\InventorySys\bin\x64\Debug\InventorySys.pdb
+C:\Users\Klein\source\repos\InventorySys\InventorySys\obj\x64\Debug\InventorySys.csproj.AssemblyReference.cache
+C:\Users\Klein\source\repos\InventorySys\InventorySys\obj\x64\Debug\InventorySys.AddStocks.resources
+C:\Users\Klein\source\repos\InventorySys\InventorySys\obj\x64\Debug\InventorySys.Menu.resources
+C:\Users\Klein\source\repos\InventorySys\InventorySys\obj\x64\Debug\InventorySys.Properties.Resources.resources
+C:\Users\Klein\source\repos\InventorySys\InventorySys\obj\x64\Debug\InventorySys.StocksInventory.resources
+C:\Users\Klein\source\repos\InventorySys\InventorySys\obj\x64\Debug\InventorySys.csproj.GenerateResource.cache
+C:\Users\Klein\source\repos\InventorySys\InventorySys\obj\x64\Debug\InventorySys.csproj.CoreCompileInputs.cache
+C:\Users\Klein\source\repos\InventorySys\InventorySys\obj\x64\Debug\InventorySys.exe
+C:\Users\Klein\source\repos\InventorySys\InventorySys\obj\x64\Debug\InventorySys.pdb
+C:\Users\Klein\source\repos\InventorySys\InventorySys\obj\x64\Debug\InventorySys.AddReleaseStocks.resources
+C:\Users\Klein\source\repos\InventorySys\InventorySys\obj\x64\Debug\InventorySys.ReleaseStockInventory.resources
+C:\Users\Klein\source\repos\InventorySys\InventorySys\obj\x64\Debug\InventorySys.AddReceiveStocks.resources
+C:\Users\Klein\source\repos\InventorySys\InventorySys\obj\x64\Debug\InventorySys.ReceieveStockInvetory.resources
